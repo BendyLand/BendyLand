@@ -1,4 +1,4 @@
-👋 Hi, I’m @BendyLand (Ben D. Landrette; no affiliation with Bendy and the Ink Machine)
+👋 Hi, I’m @BendyLand or Ben
 
 👀 I’m mostly interested in software systems programming, specifically surrounding internal tooling and/or language design.
  - I also think game development is pretty neat. 
@@ -12,7 +12,7 @@
 
 📫 You can reach me at ben.d.landrette@gmail.com.
 
-😄 Pronouns: he/him, they/them, that thing over there... (I'm not very picky; call me whatever is easiest).
+😄 Pronouns: he/him, they/them, it/that, hey you... (I'm not very picky; call me whatever's easiest.)
 
 ⚡ Fun fact: I'm a twisty puzzles enthusiast. My "morning crossword" equivalent is: 
  - 2x2 > 3x3 > 4x4 > 5x5 Rubik's cubes, followed by 
@@ -20,7 +20,7 @@
  - Square-1 > Puppet Cube v2 > Ghost Cube > Tony Fisher's Golden Cube.
    - This list goes roughly in order of how much trouble the puzzle gives *me*, isolated by each row. 
      - This means it is not necessarily in order from strictly easiest to strictly hardest.
-   - The whole thing takes me around an hour to solve; sometimes a bit shorter if I get lucky and sometimes a bit longer if I get weird jumbling cases in the later puzzles.
+   - The whole thing takes me around an hour to solve; sometimes a bit shorter if I get lucky, and sometimes a bit longer if I get weird jumbling cases in the later puzzles.
    - Somehow, this is fun to me.
 
 🎓 Tech people that I'm inspired by:
