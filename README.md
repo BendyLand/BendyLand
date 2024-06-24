@@ -7,8 +7,7 @@
  - I have a habit of trying out very simple programs in several languages before moving onto something harder. 
  - Right now, my favorite langauges to use are Rust, Scala, Go, C, C++, F#, Lua, Julia, and Python.
  - Overall, I have tried (at least a little) of the above languages plus C#, Elixir, JS, TS, Clojure, Kotlin, Groovy, Ruby, Swift, Gleam, Odin, Zig, and PHP.
-   - Note: If a language is not currently one of my favorites, that does not mean that it hasn't been one in the past, nor that it won't ever be one (again) in the future.
-     - E.g. I used to hate Go with a passion and aspired to use Ruby. Now I pick what makes sense in context and draw inspiration from the other languages where I can. 
+   - If a language is not currently one of my favorites, that does not mean that it hasn't been one in the past, nor that it won't ever be one (again) in the future.
 
 📫 You can reach me at ben.d.landrette@gmail.com.
 
