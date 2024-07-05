@@ -23,6 +23,7 @@
    - Somehow, this is fun to me.
 
 🎓 Tech people that I'm inspired by:
+ - Donald Knuth
  - Linus Torvalds
  - Terry A. Davis
  - John Carmack
