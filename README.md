@@ -18,26 +18,11 @@
  - Pyraminx > Skewb > Megaminx > Curvy Copter, and finally
  - Square-1 > Puppet Cube v2 > Ghost Cube > Tony Fisher's Golden Cube.
    - This list goes roughly in order of how much trouble the puzzle gives *me*, isolated by each row. 
-     - This means it is not necessarily in order from strictly easiest to strictly hardest.
    - The whole thing takes me around an hour to solve; sometimes a bit shorter if I get lucky, and sometimes a bit longer if I get weird jumbling cases in the later puzzles.
    - Somehow, this is fun to me.
 
-🎓 Tech people that I'm inspired by:
- - Donald Knuth
- - Linus Torvalds
- - Terry A. Davis
- - John Carmack
- - Tim Sweeney
- - Michael Reeves
- - Toby Fox
- - Thor (Pirate Software)
- - ThePrimeagen
- - LowLevelLearning
- - Theo (T3.gg)
- - DHH
- - Matz
- - Linus Sebastian
- - Emily Young
+🎓 Tech people that I'm inspired by: 
+Donald Knuth, Linus Torvalds, Terry A. Davis, John Carmack, Tim Sweeney, Michael Reeves, Toby Fox, Thor (Pirate Software), ThePrimeagen, LowLevelLearning, DHH, Matz
 
 <!---
 BendyLand/BendyLand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
