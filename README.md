@@ -22,7 +22,7 @@
    - Somehow, this is fun to me.
 
 🎓 Tech people that I'm inspired by: 
-Donald Knuth, Linus Torvalds, Terry A. Davis, John Carmack, Tim Sweeney, Michael Reeves, Toby Fox, Thor (Pirate Software), ThePrimeagen, LowLevelLearning, DHH, Matz
+Donald Knuth, Linus Torvalds, Terry A. Davis, Chris Lattner, John Carmack, Tim Sweeney, Michael Reeves, Toby Fox, Thor (Pirate Software), ThePrimeagen, LowLevelLearning, DHH, Matz
 
 <!---
 BendyLand/BendyLand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
