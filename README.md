@@ -5,8 +5,8 @@
 
 🌱 I’m currently learning the fundamentals of programming and general computer science on my own. (I may not have a CS degree, but luckily I do have one in education.) 
  - I have a habit of trying out very simple programs in several languages before moving onto something harder. 
- - Right now, my favorite langauges to use are Rust, Scala, Go, C, C++, F#, Lua, Julia, and Python.
- - Besides those, I have tried (at least a little) C#, Elixir, JS, TS, Clojure, Kotlin, Groovy, Ruby, Swift, Gleam, Odin, Zig, and PHP.
+ - Right now, my favorite langauges to use are Rust, Swift, Scala, Go, C, C++, F#, Lua, Julia, and Python.
+ - Besides those, I have tried (at least a little) C#, Elixir, JS, TS, Clojure, Kotlin, Groovy, Ruby, Gleam, Odin, Zig, and PHP.
 
 📫 You can reach me at ben.d.landrette@gmail.com.
 
