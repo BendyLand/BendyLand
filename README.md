@@ -10,7 +10,7 @@
 
 📫 You can reach me at ben.d.landrette@gmail.com.
 
-😄 Pronouns: he/him, they/them, it/that, hey you... (I'm not very picky; call me whatever's easiest.)
+😄 Pronouns: he/him, they/them, it/that, hey you... (I'll answer to most things if you have my attention.)
 
 ⚡ Fun fact: I'm a twisty puzzles enthusiast. My "Sunday crossword" equivalent is: 
  - 2x2 > 3x3 > 4x4 > 5x5 Rubik's cubes, followed by 
