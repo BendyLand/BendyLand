@@ -3,14 +3,14 @@
 👀 I’m mostly interested in software systems programming, specifically surrounding internal tooling and/or language design.
  - I also think game development is pretty neat. 
 
-🌱 I’m currently learning the fundamentals of programming and general computer science on my own. (I may not have a CS degree, but luckily I do have one in education.) 
+🌱 I’m currently learning how to program on my own. (I may not have a CS degree, but luckily I do have one in education.) 
  - I have a habit of trying out very simple programs in several languages before moving onto something harder. 
- - Right now, my favorite langauges to use are Rust, Swift, Scala, Go, C, C++, F#, Lua, Julia, and Python.
- - Besides those, I have tried (at least a little) C#, Elixir, JS, TS, Clojure, Kotlin, Groovy, Ruby, Gleam, Odin, Zig, and PHP.
+ - Right now, my favorite langauges to use are Rust, Go, C, C++, F#, Lua, and Python.
+ - Besides those, I have tried (at least a little) C#, Elixir, JS, TS, Clojure, Scala, Kotlin, Swift, Groovy, Julia, Ruby, Gleam, Odin, Zig, and PHP.
 
 📫 You can reach me at ben.d.landrette@gmail.com.
 
-😄 Pronouns: he/him, they/them, it/that, hey you... (I'll answer to most things if you have my attention.)
+😄 Pronouns: he/him
 
 ⚡ Fun fact: I'm a twisty puzzles enthusiast. My "Sunday crossword" equivalent is: 
  - 2x2 > 3x3 > 4x4 > 5x5 Rubik's cubes, followed by 
@@ -21,7 +21,10 @@
    - Somehow, this is fun to me.
 
 🎓 Tech people that I'm inspired by: 
-Donald Knuth, Linus Torvalds, Terry A. Davis, Chris Lattner, John Carmack, Tim Sweeney, Michael Reeves, Toby Fox, Thor (Pirate Software), ThePrimeagen, LowLevelLearning, DHH, Matz
+Donald Knuth, Linus Torvalds, Terry A. Davis, Chris Lattner, John Carmack, Tim Sweeney, Toby Fox, Michael Reeves, Sebastian Lague, LowLevelLearning, Thor (Pirate Software), ThePrimeagen, Matz, Guido van Rossum, DHH.
+
+🎓 Non-tech people that I'm inspired by: 
+Bo Burnham, Jacob Collier, George Carlin, Bill Burr, Seth MacFarlane, Mark Fischbach, Sean McLoughlin, Ethan Nestor, LixianTV (he could be in either list). 
 
 <!---
 BendyLand/BendyLand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
