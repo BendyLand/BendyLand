@@ -16,9 +16,6 @@
 🎓 My tech influences: 
 Donald Knuth, Linus Torvalds, Terry A. Davis, Chris Lattner, John Carmack, Tim Sweeney, Toby Fox, Michael Reeves, Sebastian Lague, LowLevelLearning, Thor (Pirate Software), ThePrimeagen, Matz, Guido van Rossum, DHH.
 
-🎓 My non-tech influences: 
-Bo Burnham, Jacob Collier, George Carlin, Bill Burr, Seth MacFarlane, Mark Fischbach, Sean McLoughlin, Ethan Nestor, LixianTV (he could be on either list). 
-
 <!---
 BendyLand/BendyLand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
