@@ -15,7 +15,7 @@
 📫 You can reach me at ben.d.landrette@gmail.com.
 
 🎓 My tech influences: 
-Donald Knuth, Linus Torvalds, Terry A. Davis, Chris Lattner, John Carmack, Tim Sweeney, Toby Fox, Michael Reeves, Sebastian Lague, LowLevelLearning, Thor (Pirate Software), ThePrimeagen, Matz, Guido van Rossum, DHH.
+Donald Knuth, Linus Torvalds, Terry A. Davis, Chris Lattner, John Carmack, Tim Sweeney, Toby Fox, Michael Reeves, Sebastian Lague, Tsoding Daily, LowLevelLearning, Thor (Pirate Software), ThePrimeagen, Matz, Guido van Rossum, DHH.
 
 <!---
 BendyLand/BendyLand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
