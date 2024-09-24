@@ -1,7 +1,8 @@
 👋 Hi, I’m @BendyLand or Ben
 
-👀 I’m mostly interested in software systems programming, specifically surrounding internal tooling and/or language design.
- - I also think game development is pretty neat. 
+👀 I’m mostly interested in systems programming, specifically surrounding internal tooling and/or language design.
+ - I also think game development is pretty neat.
+ - But also I think I might want to work in firmware, at least to start. Somehow, it seems the most approachable for my particular skillset.
 
 🌱 I’m currently learning programming on my own. (I may not have a CS degree, but luckily I do have one in education.) 
  - Right now, my favorite langauges to use are Rust, Go, C, C++, F#, Lua, and Python.
