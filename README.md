@@ -2,7 +2,6 @@
 
 👀 I’m mostly interested in systems programming, specifically surrounding internal tooling and/or language design.
  - I also think game development is pretty neat.
- - However, in terms of practical employment, I'm targeting site reliability, since the daily tasks seem to align most closely with what I enjoy doing. 
 
 🌱 I’m currently learning programming on my own. (I may not have a CS degree, but luckily I do have one in education.) 
  - Right now, my favorite langauges to use are Rust, Go, C, C++, F#, Lua, and Python.
