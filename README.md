@@ -4,8 +4,8 @@
  - I also think game development is pretty neat.
 
 🌱 I’m currently learning programming on my own. (I may not have a CS degree, but luckily I do have one in education.) 
- - Right now, my favorite langauges to use are Rust, Go, C, C++, F#, Lua, and Python.
- - Besides those, I have tried (at least a little) C#, Elixir, JS, TS, Clojure, Scala, Kotlin, Swift, Groovy, Julia, Ruby, Gleam, Haskell, OCaml, Odin, Zig, and PHP.
+ - I consider myself most proficient in C++, Rust, Go, and Python.
+ - Besides those, I have tried (at least a little) C#, F#, Elixir, JS, TS, Clojure, Scala, Kotlin, Swift, Groovy, Julia, Ruby, Lua, Gleam, Haskell, OCaml, C, Odin, Zig, and PHP.
    - Of those ones, I would **love** to have more excuses to try Elixir, Scala, Swift, Julia, Odin, and Zig more in-depth. I just haven't gotten around to using them for real yet, but I think they're all very cool-looking languages. 
    - (I did say I like language design.)
  - My favorite game engines are Unreal (for 3D) and Godot (for 2D).
