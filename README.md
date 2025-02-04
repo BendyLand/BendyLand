@@ -18,7 +18,7 @@
 Donald Knuth, Linus Torvalds, Terry A. Davis, Chris Lattner, John Carmack, Tim Sweeney, Toby Fox, Michael Reeves, Sebastian Lague, Tsoding Daily, Matz, Guido van Rossum, DHH.
 
 🎓 My non-tech influences: 
-Richard Feynman, Albert Einstein, Slavoj Žižek, Mark Hamill, Tom Kenny, Clancy Brown, Jacob Collier, Richard Feynman again. 
+Richard Feynman, George Carlin, Albert Einstein, Bo Burnham, Slavoj Žižek, Mark Hamill, Tom Kenny, Clancy Brown, Jacob Collier, Richard Feynman again. 
 
 "Influences" here are people whose work or character I find admirable or memorable in some way. Each of them has certain characteristics that I try to embody myself. 
 
