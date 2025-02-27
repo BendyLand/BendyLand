@@ -11,7 +11,7 @@ I'm a systems programmer focused on internal tooling, language design, and other
 📫 You can reach me at ben.d.landrette@gmail.com.
 
 🎓 My tech influences: 
-Donald Knuth, Linus Torvalds, Terry A. Davis, Chris Lattner, John Carmack, Tim Sweeney, Toby Fox, Michael Reeves, Sebastian Lague, Tsoding Daily, Matz, Guido van Rossum, DHH.
+Donald Knuth, Linus Torvalds, Casey Muratori, Terry A. Davis, Fabrice Bellard, Chris Lattner, John Carmack, Tim Sweeney, Toby Fox, Michael Reeves, Sebastian Lague, Tsoding Daily, Matz, Guido van Rossum, DHH.
 
 🎓 My non-tech influences: 
 Richard Feynman, George Carlin, Albert Einstein, Bo Burnham, Slavoj Žižek, Mark Hamill, Tom Kenny, Clancy Brown, Jacob Collier, Richard Feynman again. 
