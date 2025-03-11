@@ -1,7 +1,7 @@
 👋 Hi, I'm Ben! (a.k.a. @BendyLand)
-I'm a systems programmer focused on internal tooling, language design, and other low-level development. I write software that simplifies complex workflows and enhances developer productivity. I also think game development is pretty neat.
+I'm a data engineer who enjoys systems programming as a hobby, particularly involving internal tooling, language design, and other low-level development. I often write software that simplifies complex workflows and enhances developer productivity. I also think game development is pretty neat.
 
-🌱 I build projects to explore the depths of software design and low-level programming.
+🌱 I build projects to explore the depths of software design and low-level programming for fun.
  - I am most proficient in C++, Rust, Go, and Python.
  - Besides those, I have some experience with C#, F#, Elixir, JS, TS, Clojure, Scala, Kotlin, Swift, Groovy, Julia, Ruby, Lua, Gleam, Haskell, OCaml, C, Odin, Zig, and PHP.
  - My favorite game engines are Unreal (for 3D) and Godot (for 2D).
