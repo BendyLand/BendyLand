@@ -1,5 +1,5 @@
 👋 Hi, I'm Ben! (a.k.a. @BendyLand)
-I'm a data engineer who enjoys systems programming as a hobby, particularly involving internal tooling, language design, and other low-level development. I often write software that simplifies complex workflows and enhances developer productivity. I also think game development is pretty neat.
+I enjoy systems programming, particularly involving internal tooling, language design, and other low-level development. I often write software that simplifies complex workflows and enhances developer productivity. I also think game development is pretty neat.
 
 🌱 I build projects to explore the depths of software design and low-level programming for fun.
  - I am most proficient in C++, Rust, Go, and Python.
