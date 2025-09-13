@@ -8,7 +8,7 @@
 
 ⚡ Quick info: 
  - I am most proficient in C, C++, Zig, Odin, Rust, Go, and Python.
- - I also have limited experience with C#, F#, Elixir, JS, TS, Clojure, Scala, Kotlin, Swift, Groovy, Julia, Ruby, Lua, Gleam, Haskell, OCaml, and PHP.
+ - I’ve also dabbled in functional languages (Haskell, F#, OCaml), JVM/JS ecosystems (Scala, Kotlin, Groovy, Clojure, JS/TS), and a smattering of others (C#, Swift, Ruby, Lua, Julia).
    - (I did say I like language design)
  - My favorite game engines are Unreal (for 3D) and Godot (for 2D).
 
