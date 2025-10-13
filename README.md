@@ -1,6 +1,6 @@
 👋 Hi, I'm Ben! (a.k.a. @BendyLand)
 
-🌱 I enjoy systems programming, particularly involving internal tooling, language design, and other low-level development. I often write software that simplifies complex workflows and enhances developer productivity. I also think game development is pretty nifty.
+🌱 I enjoy systems programming, particularly involving internal tooling, language design, and other low-level development. I often write software that simplifies complex workflows and enhances developer productivity. I also think game development is pretty neat.
 
 💼 More professionally, I specialize in hard-to-solve bugs, cross-domain debugging, and making broken systems stable. 
 
@@ -8,6 +8,7 @@
 
 ⚡ Quick info: 
  - I am most proficient in C, C++, Zig, Odin, Rust, Go, and Python.
+   - Of those, my favorite one to use right now is Zig. 
  - I’ve also dabbled in functional languages (Haskell, F#, OCaml), JVM/JS ecosystems (Scala, Kotlin, Groovy, Clojure, JS/TS), and a smattering of others (C#, Swift, Ruby, Lua, Julia).
    - (I did say I like language design)
  - My favorite game engines are Unreal (for 3D) and Godot (for 2D).
