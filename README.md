@@ -2,7 +2,7 @@
 
 🌱 I enjoy systems programming, particularly involving internal tooling, language design, and other low-level development. I often write software that simplifies complex workflows and enhances developer productivity. I also think game development is pretty neat.  
 
-💼 More professionally, I am the owner and sole programmer at Bland Logic LLC. I write mobile apps and other programs based on your criteria. Basically, you tell me what you want, I give you an app. Easy peasy.  
+💼 More professionally, I am the owner and sole programmer at Bland Logic LLC. I write mobile apps and other programs based on your criteria. Basically, you tell me what you want, I give you an app. Don't like what I came up with? Give me some notes and I'll fix it. Easy peasy.  
 
 ⚡ Quick info: 
  - I am most proficient in Dart, C, C++, Zig, Rust, and Python.
