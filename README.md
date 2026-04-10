@@ -11,7 +11,7 @@
    - (I did say I like language design)
  - My favorite game engines are Unreal (for 3D), Godot (for 2D), and Flame (for mobile). 
 
-📫 You can reach me at [ben.d.land73883@gmail.com](mailto:ben.d.land73883@gmail.com)
+📫 You can reach me at [contact@blandlogic.com](mailto:contact@blandlogic.com). Or you can visit my website: [blandlogic.com](https://blandlogic.com)
 
 <!---
 BendyLand/BendyLand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
