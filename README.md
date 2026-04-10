@@ -9,7 +9,7 @@
    - Of those, my favorite one to use right now is Zig. 
  - I’ve also dabbled in functional languages (Haskell, F#, OCaml), JVM/JS ecosystems (Scala, Kotlin, Groovy, Clojure, JS/TS), and a smattering of others (C#, Swift, Ruby, Lua, Julia).
    - (I did say I like language design)
- - My favorite game engines are Unreal (for 3D), Godot (for 2D), and Flame (for mobile). 
+ - My favorite game engines are Unreal 4 (for 3D), Godot (for 2D), and Flame (for mobile). 
 
 📫 You can reach me at [contact@blandlogic.com](mailto:contact@blandlogic.com). Or you can visit my website: [blandlogic.com](https://blandlogic.com)
 
