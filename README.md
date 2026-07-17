@@ -2,7 +2,7 @@
 
 🌱 I enjoy systems programming, particularly involving internal tooling, language design, and other low-level development. I often write software that simplifies complex workflows and enhances developer productivity. I also think game development is pretty neat.  
 
-💼 More professionally, I own a game studio where I make retro-inspired 3D adventure platformers.
+💼 More professionally, I own a game studio where I make retro-inspired 3D adventure platformers and whatever else interests me at the moment.
 
 ⚡ Quick info: 
  - I am most proficient in C, C++, Zig, Rust, Dart, and Python.
