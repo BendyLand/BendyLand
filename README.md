@@ -11,7 +11,7 @@
  - I’ve also dabbled in functional languages (Haskell, F#, OCaml), JVM/JS ecosystems (Scala, Kotlin, Groovy, Clojure, JS/TS), and a smattering of others (C#, Swift, Ruby, Lua, Julia).
    - (I did say I like language design)
  - My favorite game engines are Unreal 4 (for 3D), Godot (for 2D), and Flame (for mobile).
- - I mainly use Pop!_OS 22.04LTS. 
+ - I mainly use Pop!_OS 24.04. 
 
 📫 You can reach me at [contact@blandlogic.com](mailto:contact@blandlogic.com). 
 
